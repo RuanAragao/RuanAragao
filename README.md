@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - ⚡ Fun fact: The trip is a trip!
+
+
+
+[Dribbble](https://dribbble.com/ruanaragao) | <a href="https://behance.com/ruanaragao" rel="nofollow noreferrer">Behance</a> | <a href="https://linkedin.com/in/ruanaragao" rel="nofollow noreferrer">LinkedIn</a> | <a href="https://ruanaragao.netlify.com" rel="nofollow noreferrer">Website</a>
