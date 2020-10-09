@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 
 
 [Dribbble](https://dribbble.com/ruanaragao) | <a href="https://behance.com/ruanaragao" rel="nofollow noreferrer">Behance</a> | <a href="https://linkedin.com/in/ruanaragao" rel="nofollow noreferrer">LinkedIn</a> | <a href="https://ruanaragao.netlify.com" rel="nofollow noreferrer">Website</a>
+
+<!--[![Aragão's github stats](https://github-readme-stats.vercel.app/api?username=RuanAragao&show_icons=true&theme=&bg_color=)](https://github.com/anuraghazra/github-readme-stats)-->
