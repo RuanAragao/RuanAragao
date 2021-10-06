@@ -22,3 +22,18 @@ Here are some ideas to get you started:
 [Dribbble](https://dribbble.com/ruanaragao) | <a href="https://behance.com/ruanaragao" rel="nofollow noreferrer">Behance</a> | <a href="https://linkedin.com/in/ruanaragao" rel="nofollow noreferrer">LinkedIn</a> | <a href="https://ruanaragao.netlify.com" rel="nofollow noreferrer">Website</a> | [Rocketseat](https://app.rocketseat.com.br/me/ruanaragao)
 
 <!--[![Aragão's github stats](https://github-readme-stats.vercel.app/api?username=RuanAragao&show_icons=true&theme=&bg_color=)](https://github.com/anuraghazra/github-readme-stats)-->
+
+### 🏆 GitHub Profile Trophy:
+---
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=RuanAragao&column=8&theme=radical&no-frame=true&no-bg=true"/>
+</a>
+
+
+### 📊 GitHub Stats:
+---
+![Ruan Aragao github stats](https://github-readme-stats.vercel.app/api?username=RuanAragao&theme=radical&show_icons=true&count_private=true)
+
+![Ruan Aragao Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RuanAragao&theme=solarized_dark)
+![Ruan Aragao Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RuanAragao&theme=solarized_dark)
+![Ruan Aragao Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RuanAragao&theme=solarized_dark)
