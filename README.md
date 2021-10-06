@@ -32,8 +32,12 @@ Here are some ideas to get you started:
 
 ### 📊 GitHub Stats:
 ---
+<!--
 ![Ruan Aragao github stats](https://github-readme-stats.vercel.app/api?username=RuanAragao&theme=radical&show_icons=true&count_private=true)
-
+-->
 ![Ruan Aragao Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RuanAragao&theme=solarized_dark)
 ![Ruan Aragao Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RuanAragao&theme=solarized_dark)
 ![Ruan Aragao Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RuanAragao&theme=solarized_dark)
+
+## ☕️ You can support by buying a coffee here — 
+https://www.buymeacoffee.com/ruanaragao
