@@ -38,5 +38,7 @@ Here are some ideas to get you started:
 ![Ruan Aragao Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RuanAragao&theme=solarized_dark)
 ![Ruan Aragao Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RuanAragao&theme=solarized_dark)
 
-## ☕️ You can support by buying a coffee here — 
-https://www.buymeacoffee.com/ruanaragao
+## ☕️ You can support by buying a coffee here
+<a href="https://www.buymeacoffee.com/ruanaragao" target="_blank">
+   <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee"height="35" width="160" loading="lazy">
+</a>
