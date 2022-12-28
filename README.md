@@ -1,3 +1,5 @@
+[![An image of @ruanaragao's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ruanaragao)](https://holopin.io/@ruanaragao)
+
 <!--![Me](https://ruanaragao.netlify.app/static/myhead-398ede0c9514dc8f8f90a577453caf4c.png)-->
 ### Run to the hills ⛰🏃‍♂️
 
