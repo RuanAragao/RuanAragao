@@ -2,7 +2,7 @@
 
 ### Run to the hills ⛰🏃‍♂️
 
-[Dribbble](https://dribbble.com/ruanaragao) | <a href="https://behance.com/ruanaragao" rel="nofollow noreferrer">Behance</a> | <a href="https://linkedin.com/in/ruanaragao" rel="nofollow noreferrer">LinkedIn</a> | <a href="https://ruanaragao.netlify.com" rel="nofollow noreferrer">Website</a> | [Rocketseat](https://app.rocketseat.com.br/me/ruanaragao) | [Digital Innovation One](https://web.dio.me/users/ruanaragao)
+[Dribbble](https://dribbble.com/ruanaragao) | <a href="https://behance.com/ruanaragao" rel="nofollow noreferrer">Behance</a> | <a href="https://linkedin.com/in/ruanaragao" rel="nofollow noreferrer">LinkedIn</a> | <a href="https://ruanaragao.com.br" rel="nofollow noreferrer">Website</a> | [Rocketseat](https://app.rocketseat.com.br/me/ruanaragao) | [Digital Innovation One](https://web.dio.me/users/ruanaragao)
 [<img align="right" alt="Ruan Avatar" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/1015013/189724718-7e488ae7-4835-4d8f-a4ec-52e9025bd5b0.png">](#)
 
 ---
